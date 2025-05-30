@@ -1,15 +1,23 @@
-# Mini Gallery
+# Snake Game 🐍
 
-This project consists of a simple web page that displays a mini gallery of 4 photos.
+This project is inspired by the classic snake game, where players control a growing snake to eat food while avoiding walls and self-collision.
 
-![Mini Galería](https://github.com/user-attachments/assets/debb8459-cd73-4f0b-9e94-011788f04d47)
+##  Game Interface
 
-## Description
+Here’s how the game looks:
 
-The web page is designed to be a minimalist photo gallery with only 4 images.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d4fe40d9-d753-442a-9da4-5016fafafbf5">
+</p>
 
-## How to Use
+### Restarting After Losing  
+If you lose, you can restart and play again:
 
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/wh4tisnet/Gallery/
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3bae3f6-1860-4b94-9eb4-1c53293d1bfd">
+</p>
+
+## ⚙️ Requirements  
+To run the game, install the **Pygame** library:  
+```bash
+pip3 install pygame
